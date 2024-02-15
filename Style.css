@@ -34,16 +34,16 @@
 }
 
 .heading{
-	color: royalblue;
+	color: rgb(2, 26, 34);
 /*	font-family: Arial Black;*/
-	font-size: 15px;
+	font-size: 30px;
 	text-align: center;
 	margin-bottom: 15px;
 }
 
 input[type="text"]{
 	height: 30px;
-	width: 180px;
+	width: 240px;
 	padding-left: 10px;
 	outline: none;
 	font-weight: bolder;
@@ -79,7 +79,7 @@ input[type="text"]{
  }
  
 .headings{
-	color: royalblue;
+	color: rgb(2, 26, 34);
 /*	font-family: Arial Black;*/
-	font-size: 12px;
+	font-size: 16px;
 }

@@ -13,6 +13,8 @@ async function fetchWeatherData(cityName){
 	console.log(data);
 }
 
+
+
 function fetchCity(){
 	let cityName = document.getElementById("city_name");
 	if (cityName.value==="") {
