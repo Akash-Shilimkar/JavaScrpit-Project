@@ -22,7 +22,7 @@
 }
 
 .container{
-	height: 400px;
+	height: 450px;
 	width: 350px;
 	box-shadow: 0px 0px 20px grey;
 	border-radius: 30px;
@@ -48,14 +48,6 @@ input[type="text"]{
 	outline: none;
 	font-weight: bolder;
 }
-
-.srch_btn{
- 	border: none;
- 	background-color: transparent;
- 	padding-top: 20px;
- 	cursor: pointer;
- }
-
 .component {
 	display: flex;
 	align-items: center;
@@ -63,10 +55,14 @@ input[type="text"]{
  }
 
 .btn{
-	margin-top: -20px;
-	margin-left: 10px;
+	margin-top: 20px;
+	margin-left: 120px;
+	
 }
-
+.btn button{
+	height: 30px;
+	width: 70px;
+}
 #city{
  	color: orangered;
 /* 	font-family: Arial Black;*/
